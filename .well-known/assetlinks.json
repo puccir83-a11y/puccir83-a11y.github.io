@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.puccir83_a11y.twa",
+      "sha256_cert_fingerprints": [
+        "D1:42:5F:DE:87:58:4F:76:5B:31:FC:87:48:1F:30:1E:57:AC:E3:64:71:2D:8F:04:E3:87:D4:B9:10:26:F8:0B"
+      ]
+    }
+  }
+]
